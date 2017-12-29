@@ -15,6 +15,8 @@ Brain Fuck Operating System
 
 -Rewrite c code into BF
 
+-Port to ARM
+
 # Short Term Goals
 
 -Create a working kernel
